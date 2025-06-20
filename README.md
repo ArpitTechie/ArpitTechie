@@ -1,44 +1,34 @@
-<table>
-  <tr>
-    <td>
+<h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
+<h3 align="center">Fuelled by code and curiosity — I build, I break, I learn, and grow.</h3>
+<br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
 
-<h1 align="left">Hi 👋, I'm Arpit Kumar</h1>
-<h3 align="left">Fuelled by code and curiosity — I build, I break, I learn, and grow.</h3>
+  <!-- Left: Your Image -->
+  <img align="right"
+    src="https://github.com/ArpitDreamer/ArpitDreamer/blob/main/coding.gif" 
+    alt="Coding gif"
+    style="width: 300px; max-width: 100%; border-radius: 10px; margin:auto">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpitdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdreamer" />
-</p>
+	 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdreamer" /> </p>
 
-- 🔭 I’m currently learning HTML, CSS, JS and I made projects like:  
-  [Social Media](https://arpitdreamer.github.io/social_media/),  
-  [Headphone](https://arpitdreamer.github.io/headphone_landing_page/),  
-  [Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
+- 🔭 I’m currently learning HTML CSS Js and I maded projects also like : [Social Media](arpitdreamer.github.io/social_media/) ,[Headphone](https://arpitdreamer.github.io/headphone_landing_page/) ,[Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
+- 🌱 I’m currently learning Many Languages **C, C++ , HTML, CSS, Js , Kotlin, and Web Development
 
-- 🌱 Currently exploring: **C, C++, HTML, CSS, JS, Kotlin, Web Dev**
+- <h2 align="left">📝 I regularly upload my daily routine on:</h2>
+<a display:flex href="https://twitter.com/codearpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codearpit" height="30" width="40" /></a>
 
-<h2 align="left">📝 I regularly upload my daily routine on:</h2>
+<a display:flex href="https://linkedin.com/in/arpitdreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitdreamer" height="30" width="40" /></a>
 
-<a href="https://twitter.com/codearpit" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codearpit" height="30" width="40" />
-</a>
+- 💬 Ask me about DSA C++, Web Development, Basic Languages
 
-<a href="https://linkedin.com/in/arpitdreamer" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitdreamer" height="30" width="40" />
-</a>
+- 📫  Reach me at **illhurtyou100@gmail.com or https://www.instagram.com/ar.pit5595/**
 
-- 💬 Ask me about DSA, C++, Web Development  
-- 📫 Reach me at **illhurtyou100@gmail.com** or on [Instagram](https://www.instagram.com/ar.pit5595/)  
-- 💌 Available for your next project  
-- 🌐 Visit [my website!](https://arpit.tech/)  
-- ⚡ Hobbies: **Chess, Football, Badminton, and hanging out with friends**
+- 💌 Available for your next project
 
-</td>
-    <td>
-      <img src="https://github.com/ArpitDreamer/ArpitDreamer/blob/main/coding.gif" alt="Coding gif" width="300" style="border-radius:10px;">
-    </td>
-  </tr>
-</table>
+-  🌐 Learn more about what I do by visiting [my website!](https://arpit.tech/)
 
+- ⚡ Hobbies **I love to play Chess, Football, Badminton and i mostly spend my free times with my Friends in my College**
 
 <br>
 
@@ -79,8 +69,12 @@ Buy Me a coffee
 
 <br>
 ### 🐍 Watch my GitHub activity get eaten by a snake!
+<div align="center">
+  <img src="https://github.com/ArpitDreamer/ArpitDreamer/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
 
-![Snake animation](https://github.com/ArpitDreamer/ArpitDreamer/blob/output/github-snake.svg)
+
+
 
 
 ## Projects made with ❤️ 👇
