@@ -15,16 +15,6 @@
 - 🔭 I’m currently learning HTML CSS Js and I maded projects also like : [Social Media](arpitdreamer.github.io/social_media/) ,[Headphone](https://arpitdreamer.github.io/headphone_landing_page/) ,[Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
 - 🌱 I’m currently learning Many Languages **C, C++ , HTML, CSS, Js , Kotlin, and Web Development
 
-<h2 align="left">📝 I regularly upload my daily routine on:</h2>
-
-<p align="left">
-  <a href="https://twitter.com/codearpit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/arpitdreamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 
 - 💬 Ask me about DSA C++, Web Development, Basic Languages
@@ -36,6 +26,17 @@
 -  🌐 Learn more about what I do by visiting [my website!](https://arpit.tech/)
 
 - ⚡ Hobbies **I love to play Chess, Football, Badminton and i mostly spend my free times with my Friends in my College**
+- <h2 align="left">📝 I regularly upload my daily routine on:</h2>
+
+<p align="left">
+  <a href="https://twitter.com/codearpit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/arpitdreamer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
 
 <br>
 
