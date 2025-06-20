@@ -1,31 +1,44 @@
-<h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
-<h3 align="center">Fuelled by code and curiosity — I build, I break, I learn, and grow.</h3>
-<br>
+<table>
+  <tr>
+    <td>
 
- <img  style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://github.com/ArpitDreamer/ArpitDreamer/blob/main/coding.gif" 
-      align="right"
-      height="400"
-         width="400">
-	 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdreamer" /> </p>
+<h1 align="left">Hi 👋, I'm Arpit Kumar</h1>
+<h3 align="left">Fuelled by code and curiosity — I build, I break, I learn, and grow.</h3>
 
-- 🔭 I’m currently learning HTML CSS Js and I maded projects also like : [Social Media](arpitdreamer.github.io/social_media/) ,[Headphone](https://arpitdreamer.github.io/headphone_landing_page/) ,[Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
-- 🌱 I’m currently learning Many Languages **C, C++ , HTML, CSS, Js , Kotlin, and Web Development
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arpitdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdreamer" />
+</p>
 
-- <h2 align="left">📝 I regularly upload my daily routine on:</h2>
-<a display:flex href="https://twitter.com/codearpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codearpit" height="30" width="40" /></a>
+- 🔭 I’m currently learning HTML, CSS, JS and I made projects like:  
+  [Social Media](https://arpitdreamer.github.io/social_media/),  
+  [Headphone](https://arpitdreamer.github.io/headphone_landing_page/),  
+  [Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
 
-<a display:flex href="https://linkedin.com/in/arpitdreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitdreamer" height="30" width="40" /></a>
+- 🌱 Currently exploring: **C, C++, HTML, CSS, JS, Kotlin, Web Dev**
 
-- 💬 Ask me about DSA C++, Web Development, Basic Languages
+<h2 align="left">📝 I regularly upload my daily routine on:</h2>
 
-- 📫  Reach me at **illhurtyou100@gmail.com or https://www.instagram.com/ar.pit5595/**
+<a href="https://twitter.com/codearpit" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codearpit" height="30" width="40" />
+</a>
 
-- 💌 Available for your next project
+<a href="https://linkedin.com/in/arpitdreamer" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitdreamer" height="30" width="40" />
+</a>
 
--  🌐 Learn more about what I do by visiting [my website!](https://arpit.tech/)
+- 💬 Ask me about DSA, C++, Web Development  
+- 📫 Reach me at **illhurtyou100@gmail.com** or on [Instagram](https://www.instagram.com/ar.pit5595/)  
+- 💌 Available for your next project  
+- 🌐 Visit [my website!](https://arpit.tech/)  
+- ⚡ Hobbies: **Chess, Football, Badminton, and hanging out with friends**
 
-- ⚡ Hobbies **I love to play Chess, Football, Badminton and i mostly spend my free times with my Friends in my College**
+</td>
+    <td>
+      <img src="https://github.com/ArpitDreamer/ArpitDreamer/blob/main/coding.gif" alt="Coding gif" width="300" style="border-radius:10px;">
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
