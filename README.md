@@ -12,7 +12,7 @@
 	 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="arpitdreamer" /> </p>
 
-- 🔭 I’m currently learning HTML CSS Js and I maded projects also like : [Social Media](arpitdreamer.github.io/social_media/) ,[Headphone](https://arpitdreamer.github.io/headphone_landing_page/) ,[Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
+- 🔭 I’m currently learning HTML CSS Js and I maded projects also like : [Social Media](https://arpitdreamer.github.io/social_media/) ,[Headphone](https://arpitdreamer.github.io/headphone_landing_page/) ,[Form Filling Landing Page](https://arpitdreamer.github.io/FORM_FILL_LANDING_PAGE/)
 - 🌱 I’m currently learning Many Languages **C, C++ , HTML, CSS, Js , Kotlin, and Web Development
 
 
