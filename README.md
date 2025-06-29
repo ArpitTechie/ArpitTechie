@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Arpit Kumar😊</h1>
 <h3 align="center">Fuelled by code and curiosity — I build, I break, I learn, and grow.</h3>
 <br>
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
