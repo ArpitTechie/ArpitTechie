@@ -59,7 +59,7 @@
 <br>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47&langs_count=8&theme=tokyonight(https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47)" alt="Top Languages" />
+	<img align="center" src="https://github-stats-three-psi.vercel.app/stats/ArpitTechie" alt="Top Languages" />
 <!--Streak count -->
 </p>
 <br>
